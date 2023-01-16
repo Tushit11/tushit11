@@ -7,14 +7,29 @@
 	
 ## **About me 👋🏻**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
 <br>
 
-- An aspiring Full Stack Web Developer developer
-- Currently studying Full Stack Web Development at Masai, Full Time
-- Portfolio [link](https://salimzeeshan.github.io/portfolio/)
-- I’m currently open for an Internship or a new job opportunity, this is [my resume](https://drive.google.com/file/d/13RMS0TwUEnhKzNZ5w0O8lWK8NElLq4PS/view?usp=share_link)
+
+
+- 🔭 I’m currently working on **Frontend & Backend**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **LinkedIn & GitHub**
+
+- 📫 Reach me on **tushitsaxena4@gmail.com** 
+
+- 💬 ask me about anything, i am happy to help 
+
+- 😄 Pronouns: He/His
+
+- ⚡ Fun Fact: Imagination is more important than knowledge 
+
+- 💬 Have a look at my [Portfolio](https://tushit99.github.io/) 
+
+
 
 <br><br>
 
@@ -59,7 +74,9 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+<br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
 
 ## <b>Let's Connect! 🤝🏻</b>
 <br>
@@ -92,14 +109,14 @@
   <p>
     <img
       align="left" width="47%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=salimzeeshan&show_icons=true&locale=en&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit11&show_icons=true&locale=en&layout=compact"
       alt="Mohammad Zeeshan Salim"
     />
   </p>
   <p>
     &nbsp;<img
       align="right" width="47%" 
-      src="https://github-readme-stats.vercel.app/api?username=salimzeeshan&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=tushit11&show_icons=true&locale=en"
       alt="Mohammad Zeeshan Salim"
     />
   </p>
